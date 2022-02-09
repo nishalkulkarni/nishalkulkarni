@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a currently an undergraduate student studying Computer Science at VIT (Graduating on May, 2023), when I'm not swamped with academic work I like contributing to open source projects and working on some projects of my own.
+I'm currently an undergraduate student studying Computer Science at VIT (Graduating on May, 2023), when I'm not swamped with academic work I like contributing to open source projects and working on some projects of my own.
 
 In the past I've worked as a student developer at GNOME as part of Google Summer of Code 2021 and have continued contributing since, I like working on low-level projects related to operating systems and kernels. 
 
